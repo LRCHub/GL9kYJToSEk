@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "絶対称賛!（feat. 双見奈々(CV:夏吉ゆうこ)）",
+  "base_track": "絶対称賛!（feat. ハコニワリリィ）",
   "base_artist": "MARUMOCHI from HoneyWorks",
-  "createdAt": "2026-02-14T03:02:44.907652Z",
+  "createdAt": "2026-02-20T11:43:37.309809Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "絶対称賛! feat.双見奈々(CV:夏吉ゆうこ)",
+      "title": "絶対称賛! feat.ハコニワリリィ",
       "artist": "MARUMOCHI from HoneyWorks",
       "has_synced": false,
-      "path": "select/pl_01_絶対称賛!_feat.双見奈々(CV_夏吉ゆうこ)_MARUMOCHI_from_HoneyWorks.txt"
+      "path": "select/pl_01_絶対称賛!_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
     }
   ]
 }
